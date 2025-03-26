@@ -13,7 +13,7 @@
       <li class="nav-item">
         <RouterLink to="/midb">海上活動智慧客服</RouterLink></li>
       <li><a href="https://www.ronin.com.tw/v2/official/SalePageCategory/491821?lang=zh-TW&srsltid=AfmBOop1scZe1QJ9pS5u7g6SyikZfX-1e3UREyYQZAb8BWdEdia_ok2g&sortMode=Newest/" target="_blank" rel="noopener noreferrer">推薦裝備</a></li>  
-      <li><a href="https://www.cwa.gov.tw/V8/C/W/County/County.html?CID=64/" target="_blank" rel="noopener noreferrer">氣象、海浪預測</a></li>
+      <li><RouterLink to="/wee">氣象、海浪預測</RouterLink></li>
       <li><a href="https://www.youtube.com/shorts/2x6wD7KwEEQ/" target="_blank" rel="noopener noreferrer">開發社群</a></li>
       <li><RouterLink to="/about">語音功能</RouterLink></li>
       <li><RouterLink to="/about">警示系統</RouterLink></li>
